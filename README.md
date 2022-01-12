@@ -22,3 +22,8 @@ https://www.webfx.com/blog/web-design/css-methodologies/ <br><br>
 
 *PostCSS ile ilgili bilgi edindim. <br>
 https://www.youtube.com/watch?v=GlSOsgfNWxs <br><br>
+
+
+<h1>11.01.2022</h1>
+*İleri Seviye GIT kursuma devam ettim. <br>
+https://app.patika.dev/moduller/ileri-seviye-git/branch-islemleri-stash-kavram%C4%B1 <br><br>
