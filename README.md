@@ -25,5 +25,15 @@ https://www.youtube.com/watch?v=GlSOsgfNWxs <br><br>
 
 
 <h1>11.01.2022</h1>
-*İleri Seviye GIT kursuma devam ettim. <br>
+*İleri Seviye GIT modülüne devam ettim. <br>
 https://app.patika.dev/moduller/ileri-seviye-git/branch-islemleri-stash-kavram%C4%B1 <br><br>
+
+
+<h1>12.01.2022</h1>
+*İleri Seviye GIT modülünü tamamladım. <br>
+https://app.patika.dev/moduller/ileri-seviye-git <br><br>
+
+
+*Yazılım Dünyasında Kariyer Basamakları modülüne devam ettim. <br>
+https://app.patika.dev/moduller/yazilim-dunyasinda-kariyer-basamaklari/3-Is-basvuru-sureci <br>
+
