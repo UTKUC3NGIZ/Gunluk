@@ -1,10 +1,10 @@
 # Gunluk 
 İlerlemeler, takıldığım yerler ve devam edeceğim yerler
 
-<h1>Araştırılacaklar </h1> 
-Build tools'lar 
-
-
+<h1>Roadmap </h1> 
+React <br>
+Redux <br>
+Deployment<br>
 <h1>09.01.2022</h1>
 *Temel git ve github üzerindeki eksiklerimi kapattım. <br>
 https://www.youtube.com/watch?v=7foV53lJhVQ <br><br>
@@ -40,5 +40,10 @@ https://app.patika.dev/moduller/yazilim-dunyasinda-kariyer-basamaklari <br>
 
 <h1>13.01.2022</h1>
 *Yazılım Dünyasında Kariyer Basamakları modülüne devam ettim. <br>
+https://app.patika.dev/moduller/yazilim-dunyasinda-kariyer-basamaklari <br>
+
+
+<h1>24.01.2022</h1>
+*Yazılım Dünyasında Kariyer Basamakları modülü bitti <br>
 https://app.patika.dev/moduller/yazilim-dunyasinda-kariyer-basamaklari <br>
 
