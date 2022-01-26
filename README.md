@@ -44,6 +44,11 @@ https://app.patika.dev/moduller/yazilim-dunyasinda-kariyer-basamaklari <br>
 
 
 <h1>24.01.2022</h1>
-*Yazılım Dünyasında Kariyer Basamakları modülü bitti <br>
+*Yazılım Dünyasında Kariyer Basamakları modülü bitti. <br>
 https://app.patika.dev/moduller/yazilim-dunyasinda-kariyer-basamaklari <br>
+
+
+<h1>25.01.2022</h1>
+*React modülüne başladım. <br>
+https://app.patika.dev/moduller/react <br>
 
