@@ -52,3 +52,7 @@ https://app.patika.dev/moduller/yazilim-dunyasinda-kariyer-basamaklari <br>
 *React modülüne başladım. <br>
 https://app.patika.dev/moduller/react <br>
 
+
+<h1>27.01.2022</h1>
+*React modülüne devam ediyorum. <br>
+https://app.patika.dev/moduller/react <br>
