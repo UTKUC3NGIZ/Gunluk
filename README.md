@@ -56,3 +56,10 @@ https://app.patika.dev/moduller/react <br>
 <h1>27.01.2022</h1>
 *React modülüne devam ediyorum. <br>
 https://app.patika.dev/moduller/react <br>
+
+
+<h1>31.01.2022</h1>
+*Callback Functions / async-await <br>
+*Promises <br>
+*Array Functions <br>
+
