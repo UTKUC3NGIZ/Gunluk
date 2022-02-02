@@ -63,3 +63,8 @@ https://app.patika.dev/moduller/react <br>
 *Promises <br>
 *Array Functions <br>
 
+
+<h1>01.02.2022</h1>
+*Component nedir, oluşturma ve kullanma <br>
+
+
