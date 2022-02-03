@@ -68,3 +68,7 @@ https://app.patika.dev/moduller/react <br>
 *Component nedir, oluşturma ve kullanma <br>
 
 
+<h1>02.02.2022</h1>
+*JSX ve temel kurallar, Componentlerde Değişken Render Etmek, koşullu render etme ve işlemi <br>
+
+
