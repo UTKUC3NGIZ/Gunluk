@@ -72,3 +72,7 @@ https://app.patika.dev/moduller/react <br>
 *JSX ve temel kurallar, Componentlerde Değişken Render Etmek, koşullu render etme ve işlemi <br>
 
 
+<h1>03.02.2022</h1>
+*Props nedir, Döngülerde "key" Prop'u, React Developer Tools, Prop Types <br>
+
+
