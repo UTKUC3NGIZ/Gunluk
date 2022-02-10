@@ -76,3 +76,7 @@ https://app.patika.dev/moduller/react <br>
 *Props nedir, Döngülerde "key" Prop'u, React Developer Tools, Prop Types <br>
 
 
+<h1>09.02.2022</h1>
+*Prop Types: isRequired, Prop Types: oneOfType, Prop Types: shape, Default Props<br>
+
+
