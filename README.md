@@ -84,4 +84,8 @@ https://app.patika.dev/moduller/react <br>
 *PState Nedir? Nasıl Oluşturulur?, Array States, Object States, Sayaç Uygulaması yaptım<br>
 
 
+<h1>16.02.2022</h1>
+*Re-Render Mantığını Anlamak, Input için State Tanımı Yapmak<br>
+
+
 
