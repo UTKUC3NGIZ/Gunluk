@@ -92,4 +92,7 @@ https://app.patika.dev/moduller/react <br>
 *useEffect, Component Unmount, lifecycle<br>
 
 
+<h1>20.02.2022</h1>
+*Contacts App örneğine başlandı, Form Component'inin Geliştirilmesi, kayıtların listelenmesi  <br>
+
 
