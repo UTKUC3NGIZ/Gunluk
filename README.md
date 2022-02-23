@@ -96,3 +96,7 @@ https://app.patika.dev/moduller/react <br>
 *Contacts App örneğine başlandı, Form Component'inin Geliştirilmesi, kayıtların listelenmesi  <br>
 
 
+<h1>23.02.2022</h1>
+*Filtreleme İşlemi, Stil Tanımlarının Yapılması  <br>
+
+
