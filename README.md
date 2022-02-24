@@ -100,3 +100,7 @@ https://app.patika.dev/moduller/react <br>
 *Filtreleme İşlemi, Stil Tanımlarının Yapılması  <br>
 
 
+<h1>24.02.2022</h1>
+*Stil Tanımı Yapmak, Module CSS, Native Fetch, Axios  <br>
+
+
