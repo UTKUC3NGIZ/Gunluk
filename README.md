@@ -104,3 +104,9 @@ https://app.patika.dev/moduller/react <br>
 *Stil Tanımı Yapmak, Module CSS, Native Fetch, Axios  <br>
 
 
+<h1>28.02.2022</h1>
+*Routing Kurulumu, Exact Prop <br>
+
+
+<h1>01.03.2022</h1>
+*URL Parameters,Nesting, NavLink, No Match(404) <br>
