@@ -110,3 +110,7 @@ https://app.patika.dev/moduller/react <br>
 
 <h1>01.03.2022</h1>
 *URL Parameters,Nesting, NavLink, No Match(404) <br>
+
+
+<h1>02.03.2022</h1>
+*Formik Kurulumu,handleSubmit & handleChange,Radio / Checkbox / Dropdown, useFormik <br>
