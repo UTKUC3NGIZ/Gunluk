@@ -114,3 +114,7 @@ https://app.patika.dev/moduller/react <br>
 
 <h1>02.03.2022</h1>
 *Formik Kurulumu,handleSubmit & handleChange,Radio / Checkbox / Dropdown, useFormik <br>
+
+
+<h1>03.03.2022</h1>
+*Form Validasyonları - 1, Form Validasyonları - 2 <br>
