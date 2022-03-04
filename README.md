@@ -118,3 +118,7 @@ https://app.patika.dev/moduller/react <br>
 
 <h1>03.03.2022</h1>
 *Form Validasyonları - 1, Form Validasyonları - 2 <br>
+
+
+<h1>03.03.2022</h1>
+*React.memo, useMemo, useCallback <br>
