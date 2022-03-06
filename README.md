@@ -126,3 +126,7 @@ https://app.patika.dev/moduller/react <br>
 
 <h1>05.03.2022</h1>
 *Context Nedir?, Context Oluşturmak <br>
+
+
+<h1>06.03.2022</h1>
+*Context Provider, Theme Switcher Yapımı,Context Provider Side Effects <br>
